@@ -11,4 +11,4 @@ description: >
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: ${{ JEKYLL_GA_MEASUREMENT_ID }}
