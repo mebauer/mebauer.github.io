@@ -2,14 +2,10 @@
 
 ---
 
-### General Data Analysis & Science 
+### General Data Analysis
 
-[Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
+- [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
 ---
 
@@ -38,6 +34,5 @@
 
 ---
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
