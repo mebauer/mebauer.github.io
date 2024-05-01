@@ -12,10 +12,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Analyzing Flood Risk in New York City
 
@@ -41,8 +37,6 @@
 - [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
 
 ---
-
-
 
 
 ---
