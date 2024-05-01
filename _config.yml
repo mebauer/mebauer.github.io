@@ -11,4 +11,4 @@ description: >
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: ${{ JEKYLL_GA_MEASUREMENT_ID }}
+google_analytics: G-9ZBJ1XN9E6
