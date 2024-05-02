@@ -2,7 +2,7 @@
 
 ---
 
-### General Data Analysis
+### Python Data Analysis Tutorials
 
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
