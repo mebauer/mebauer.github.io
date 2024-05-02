@@ -13,15 +13,15 @@
 
 - [Analyzing NYC's Stormwater Flood Map - Extreme Flood Scenario](https://github.com/mebauer/stormwater-map-analysis-nyc)
 - [Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020](https://github.com/mebauer/nyc-311-street-flooding)
-- [Exploring the Building Elevation and Subgrade (BES) Dataset for New York City in Python](https://github.com/mebauer/building-elevation-subgrade-nyc)
-- [Exploring the Citywide Parcel-Level Impervious Area GIS Layer in Python](https://github.com/mebauer/parcel-impervious-area-nyc)
-- [Exploring the Projected Sea Level Rise Data by New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
+- [Exploring NYC's Building Elevation and Subgrade (BES) Dataset in Python](https://github.com/mebauer/building-elevation-subgrade-nyc)
+- [Exploring NYC's Citywide Parcel-Level Impervious Area GIS Layer in Python](https://github.com/mebauer/parcel-impervious-area-nyc)
+- [Exploring Projected Sea Level Rise Data by the New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
 
 ---
 
-### New York City Flood Data
+### Flood Data for New York City
 
-- [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
+- [Flood Datasets for NYC: A Comprehensive Open Data Inventory](https://github.com/mebauer/nyc-flood-data)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 - [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
 
