@@ -19,15 +19,15 @@
 
 ---
 
-### Flood Data for New York City
+### New York City Flood Data
 
 - [NYC Open Data Flood Datasets Catalog: A Comprehensive Inventory](https://github.com/mebauer/nyc-flood-data)
-- [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
+- [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
 
 ---
 
-### National Flood Insurance Program (NFIP) Data
+### National Flood Insurance Program (NFIP) Data and Tutorials
 
 - [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
 - [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
