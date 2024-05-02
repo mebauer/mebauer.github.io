@@ -2,13 +2,11 @@ title: Mark Bauer
 logo: "/images/mark-headshot.jpg?raw=true"
 description: > 
   <br><br>
-  Data Scientist with extensive experience leveraging Python and SQL to drive data-driven solutions.
-  Proficient in all aspects of the data analysis lifecycle, including data wrangling, building robust data pipelines,
-  and conducting machine learning experiments. Experience with Amazon Web Services (AWS) products such as RDS for
-  relational database management and S3 for scalable data storage. 
+  Data Scientist.
   <br><br>
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markebauer/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/markebauer) 
+   I'm passionate about all things data and open source.
+  <br><br>
+  <a href="https://www.linkedin.com/in/markebauer/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
