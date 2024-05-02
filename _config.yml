@@ -6,11 +6,11 @@ description: >
   <br><br>
    I'm passionate about all things data and open source.
   <br><br>
-  "I hold a bachelor's and master's degree from Rutgers University specializing in Geographic Information Systems (GIS),
+  I hold a bachelor's and master's degree from Rutgers University specializing in Geographic Information Systems (GIS),
   along with an Advanced Certificate from New York University in Applied Urban Science and Informatics.
   <br><br>
   I’m best reached via <a href="https://www.linkedin.com/in/markebauer/">LinkedIn</a>, and all of my code on <a href="https://github.com/mebauer">GitHub</a>.
-   
+  <br><br> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
