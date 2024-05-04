@@ -1,6 +1,6 @@
 ## Portfolio
 
-Welcome to my portfolio! Each of these projects is open source and freely available on my GitHub. They have been showcased at conferences like NYC Open Data Week, integrated into academic curricula at institutions like New York University Center for Urban Science and Progress, and even referenced in peer-reviewed academic papers from universities such as Texas A&M.
+Welcome to my portfolio! Each of these projects is open source and freely available on my GitHub. They have been showcased at conferences like NYC Open Data Week, integrated into academic curricula at institutions like New York University, and even referenced in peer-reviewed academic papers from universities such as Texas A&M.
 
 If you've found any of these projects valuable, I'd love to hear from you! Feel free to reach out and say hello.
 
@@ -8,7 +8,7 @@ If you've found any of these projects valuable, I'd love to hear from you! Feel 
 
 ### Python Data Analysis Tutorials
 
-I have a passion for learning and teaching Python for Data Science in an open source and reporoducible way. Below are two projects that demonstrate how to work with Python and utilize datasets on NYC Open Data. Note: "Data Analysis Using Python" has +240 GitHub stars and has been popular in the NYC Open Data community.
+I have a passion for learning and teaching Python for data science in an open source and reproducible way. Below are two projects that demonstrate how to work with Python and utilize datasets on NYC Open Data. Note: "Data Analysis Using Python" has +240 GitHub stars and has been popular in the NYC data science community.
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
