@@ -1,5 +1,9 @@
 ## Portfolio
 
+Welcome to my portfolio! Each of these projects is open source and freely available on my GitHub. They have been showcased at conferences like NYC Open Data Week, integrated into academic curricula at institutions like New York University Center for Urban Science and Progress, and even referenced in peer-reviewed academic papers from universities such as Texas A&M.
+
+If you've found any of these projects valuable, I'd love to hear from you! Feel free to reach out and say hello.
+
 ---
 
 ### Python Data Analysis Tutorials
