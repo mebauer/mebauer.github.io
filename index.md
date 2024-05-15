@@ -9,6 +9,7 @@ If you've found any of these projects valuable, I'd love to hear from you! Feel 
 ### Python Data Analysis Tutorials
 
 I have a passion for learning and teaching Python for data science in an open source and reproducible way. Below are two projects that demonstrate how to work with Python and utilize datasets on NYC Open Data. Note: "Data Analysis Using Python" has +240 GitHub stars and has been popular in the NYC data science community.
+- [DuckDB in Python: A Beginner's Guide](https://github.com/mebauer/duckdb-python-basics)
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
@@ -37,6 +38,7 @@ I've scoured the internet to collect the best datasets and reports concerning Ne
 ### National Flood Insurance Program (NFIP) Data and Tutorials
 
 Flood insurance stands as a cornerstone of community resilience against flooding. However, the absence of information and high-quality data shouldn't impede progress. Presented below are two guides showcasing the utilization and analysis of FEMA's National Flood Insurance Program (NFIP) data.
+- [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
 - [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
 - [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
 
