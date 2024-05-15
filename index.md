@@ -15,6 +15,15 @@ I have a passion for learning and teaching Python for data science in an open so
 
 ---
 
+### National Flood Insurance Program (NFIP) Data and Tutorials
+
+Flood insurance stands as a cornerstone of community resilience against flooding. However, the absence of information and high-quality data shouldn't impede progress. Presented below are guides showcasing the utilization and analysis of FEMA's National Flood Insurance Program (NFIP) data.
+- [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
+- [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
+- [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
+
+---
+
 ### Analyzing Flood Risk in New York City
 
 I spent one summer in 2014 studying abroad in Amsterdam learning about the Dutch approach to flood risk management. Since that transformative experience, I've relentlessly attempted to analyze and communicate New York City's flood risk through the lens of data science.
@@ -32,15 +41,6 @@ I've scoured the internet to collect the best datasets and reports concerning Ne
 - [Flood Datasets for NYC: A Comprehensive Open Data Inventory](https://github.com/mebauer/nyc-flood-data)
 - [A Collection of Flood Hazard Layers for New York City](https://github.com/mebauer/nyc-flood-layers)
 - [New York City Flooding Reports and Publications](https://github.com/mebauer/nyc-flood-reports)
-
----
-
-### National Flood Insurance Program (NFIP) Data and Tutorials
-
-Flood insurance stands as a cornerstone of community resilience against flooding. However, the absence of information and high-quality data shouldn't impede progress. Presented below are two guides showcasing the utilization and analysis of FEMA's National Flood Insurance Program (NFIP) data.
-- [Analyzing FEMA's National Flood Insurance Program (NFIP) Data With DuckDB](https://github.com/mebauer/duckdb-fema-nfip)
-- [Exploring National Flood Insurance Program Data for New York City](https://github.com/mebauer/fema-nfip-nyc)
-- [New York City's Preliminary Flood Insurance Rate Map (PFIRM) Data Analysis](https://github.com/mebauer/nyc-floodzone-analysis)
 
 ---
 
