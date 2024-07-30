@@ -8,8 +8,9 @@ If you've found any of these projects valuable, I'd love to hear from you! Feel 
 
 ### Python Data Analysis Tutorials
 
-I have a passion for learning and teaching Python for data science in an open source and reproducible way. Below are two projects that demonstrate how to work with Python and utilize datasets on NYC Open Data. Note: "Data Analysis Using Python" has +240 GitHub stars and has been popular in the NYC data science community.
+I have a passion for learning and teaching Python for data science in an open source and reproducible way. Below are projects that demonstrate how to work with Python and utilize datasets on NYC Open Data. Note: "Data Analysis Using Python" has +240 GitHub stars and has been popular in the NYC data science community.
 - [DuckDB in Python: A Beginner's Guide](https://github.com/mebauer/duckdb-python-basics)
+- [Ibis Basics: An Introduction to the Portable Python Dataframe Library](https://github.com/mebauer/ibis-basics)
 - [Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python)
 - [Socrata Open Data API (SODA) Tutorial Using NYC Open Data](https://github.com/mebauer/sodapy-tutorial-nyc-opendata)
 
@@ -29,6 +30,7 @@ Flood insurance stands as a cornerstone of community resilience against flooding
 I spent one summer in 2014 studying abroad in Amsterdam learning about the Dutch approach to flood risk management. Since that transformative experience, I've relentlessly attempted to analyze and communicate New York City's flood risk through the lens of data science.
 - [Analyzing NYC's Stormwater Flood Map - Extreme Flood Scenario](https://github.com/mebauer/stormwater-map-analysis-nyc)
 - [Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020](https://github.com/mebauer/nyc-311-street-flooding)
+- [Exploring MyCoast New York Reports for NYC](https://github.com/mebauer/mycoast-ny-data)
 - [Exploring NYC's Building Elevation and Subgrade (BES) Dataset in Python](https://github.com/mebauer/building-elevation-subgrade-nyc)
 - [Exploring NYC's Citywide Parcel-Level Impervious Area GIS Layer in Python](https://github.com/mebauer/parcel-impervious-area-nyc)
 - [Exploring Projected Sea Level Rise Data by the New York City Panel on Climate Change (NPCC) in Python](https://github.com/mebauer/projected-sea-level-rise-nyc)
